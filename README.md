@@ -1,6 +1,6 @@
 # BT-AI-WRITER
 
-**BT-AI-WRITER** is a Python-based tool that leverages the power of Bard to generate articles effortlessly. This GitHub repository provides a straightforward way to create high-quality articles on various topics. Whether you're a content creator, blogger, or just in need of some automated article generation, this tool can help you save time and energy.
+**BT-AI-WRITER** is a Python-based tool that leverages the power of Bard to generate articles effortlessly, specifically built to empower Bisatumbuh blog. This GitHub repository provides a straightforward way to create high-quality articles on various topics. Whether you're a content creator, blogger, or just in need of some automated article generation, this tool can help you save time and energy.
 
 ## Prerequisites
 
