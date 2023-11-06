@@ -7,7 +7,7 @@ from datetime import datetime
 import bardapi
 
 # Set token
-token = 'YQjiJxS0JS8Wl-R1RDhmOhyItTKCevEdNSr5EWRH4Gh6RL_rBUYzmD9-Kq9ps2zqXpZ9bA.'
+token = '' #set bard token api
 
 # Define the topics
 topics = [
